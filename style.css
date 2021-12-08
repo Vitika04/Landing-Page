@@ -1,0 +1,233 @@
+body {
+     background-color: black;
+     margin: 0;
+}
+p {
+  color: #5d6660;
+  font-size: 15px;
+  line-height: 22px;
+  font-family: sans-serif;
+}
+header {
+     height: 80px;
+     background-color: white;
+}
+#header-container {
+     width: 80%;
+     margin: auto;
+}
+.col-3 {
+     width: 33%;
+     float: left;
+}
+.logo {
+  padding-top: 10px;
+}
+
+.menu {
+  margin-top: 32px; 
+}
+
+.menu li {
+    list-style-type: none;
+    display: inline;
+    font-size: .80em;
+    padding-right: 30px;
+    font-family: sans-serif;
+    
+}
+.getStartedBTN {
+     background-color: #00868b;
+     border-radius: 28px;
+     -webkit-border-radius: 28px;
+     text-decoration: none;
+     color: #ffffff;
+     padding: 10px 26px;
+     margin-top: 20px;
+     display: inline-block;
+     font-size: 17px;
+     float: right;
+     font-family: sans-serif;
+}
+#top-section-main {
+    background-image: url(https://tprsenterprises.in/wp-content/gallery/test-page/titan-campus-11.jpg);
+    height: 650px;
+    border: none;
+    opacity:0.8;
+}
+#top-section-content {
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+}
+#top-section-content h1 {
+    font-size: 4em;
+    font-weight: 300;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 0;
+    padding-top: 100px;
+    margin-bottom: 15px;
+}
+
+#top-section-content p {
+    font-size: 1.3em;
+    font-weight: 400;
+    color: #ffffff;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+footer {
+   background-color: black;
+   clear: both;
+   height: 300px;
+   font-family: sans-serif;   
+}
+.social-footer {
+   width: 33%;
+   float: left;
+   height: 40%;
+}
+
+.center {
+   width: 20px;
+   margin: auto;
+   padding-top: 20px;  
+}
+
+h4, h3, hr {
+  color: white;
+  text-align: center;
+  line-height:1.5em;
+  font-family: sans-serif;
+}
+.copyright {
+  color: white;
+  font-size: .8em;
+  text-align: center;
+  display: block;
+  padding-top:250px;
+  font-family: sans-serif;
+}
+
+.col-2 {
+  float: left;
+  width: 48%;
+}
+
+#showcase1-container {
+  padding-top: 60px;
+  background-color: white;
+  width: 100%;
+  clear: both;
+  font-family: sans-serif;
+}
+
+#showcase2-container {
+  padding-top: 60px;
+  background-color: lightgrey;
+  width: 100%;
+  clear: both;
+  font-family: sans-serif;
+}
+#showcase3-container {
+  padding-top: 60px;
+  background-color: lightgrey;
+  width: 100%;
+  clear: both;
+  font-family: sans-serif;
+}
+.showcase{
+  width: 80%;
+  margin: auto;
+  overflow: auto;
+}
+
+.showcase1pic {
+  width: 100%;
+}
+
+.feature-text{
+  padding-top: 20px;
+  padding-left: 50px;
+  padding-bottom: 100px;
+ 
+}
+.section-title {
+  width: 80%;
+   margin: auto;
+   font-weight: 190;
+   line-height: 1.0em;
+}
+
+.section-left{
+  width: 80%;
+  padding: 20px 10px 10px 10px;
+  margin: auto;
+}
+.main-form{
+  padding-top: 90px;
+}
+.main-form h6 {
+  font-family: sans-serif;
+  font-size: .9em;
+  font-weight: 160;
+  color: white;
+  text-align: center;
+}
+.main-form input {
+  margin: 0;
+  width: 30%;
+  height: 40px;
+  font-family: sans-serif;
+  font-size: 15px;
+  padding-left: 15px;
+  font-weight: 100;
+  border: none;
+}
+.main-form button {
+  width: 30%;
+  height: 42px;
+  font-family: sans-serif;
+  font-size: 15px;
+  padding-left: 15px;
+  font-weight: 100;
+  background-color: #00868b;
+  color: white;
+  border: none;
+}
+#feature-section {
+  padding-top: 30px;
+  background-color: white;
+  display: inline-block;
+  
+}
+.feature-content {
+  margin: auto;
+  width: 100%;
+  text-align: center;
+  background-color: white; 
+}
+.feature-content .col-3 img {
+  width: 100%;
+  padding-top: 12px;
+}
+.feature-content .col-3 p {
+  font-size: .7em;
+  letter-spacing: 1px;
+  text-align: center;
+  background-color: white;
+}
+.feature-content .col-3 {
+  padding: 10px;
+  width: 30%;
+  background-color: white;
+}
+.feature-content .col-3 h3 { 
+  text-align: center;
+  color:black;
+  background-color: white;
+}
+ 
